@@ -9,6 +9,10 @@ I’m a Unix sysadmin, C++ audio developer, retro game developer, and black meta
 - [**El Huésped**](https://wamphyre.itch.io/el-huesped) is a horror adventure for the Sega Mega Drive set in an abandoned clinic.
 - [**Monster Chess**](https://wamphyre.itch.io/monster-chess) is a supernatural chess game with branching endings.
 
+## Building software with AI agents
+
+I use AI coding agents to prototype and build applications, software tools, and games. I’m good at turning a rough idea into clear direction for an agent, using examples and focused feedback to refine each iteration. I bring my own creative judgment to the result, from how the code is structured to how the interface looks and feels.
+
 ## Audio software and Unix systems
 
 | Project | What it does |
