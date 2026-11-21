@@ -1,6 +1,8 @@
 # Hi, I’m Wamphyre
 
-I’m a Unix sysadmin, C++ audio developer, retro game developer, and black metal musician. I build open-source tools for FreeBSD, Linux, and macOS, and make pixel-art games as **Wamphyre Studio**.
+I’m a Unix sysadmin and software developer with **10 years of experience**. I build open-source tools for FreeBSD, Linux, and macOS, develop audio software in C++, and make pixel-art games as **Wamphyre Studio**. I’m also a black metal musician.
+
+![Animated ASCII terminal banner reading Wamphyre and cycling through Unix systems, C++ audio and DSP, retro game development, and AI coding agents](./wamphyre-ascii.gif)
 
 ## Retro games
 
@@ -8,6 +10,10 @@ I’m a Unix sysadmin, C++ audio developer, retro game developer, and black meta
 
 - [**El Huésped**](https://wamphyre.itch.io/el-huesped) is a horror adventure for the Sega Mega Drive set in an abandoned clinic.
 - [**Monster Chess**](https://wamphyre.itch.io/monster-chess) is a supernatural chess game with branching endings.
+
+### YmirPS5
+
+[**YmirPS5**](https://github.com/Wamphyre/YmirPS5) is my PlayStation 5 port of the [Ymir Sega Saturn emulator](https://github.com/ymir-emu/Ymir). It brings Saturn emulation to PS5 with a DualSense interface, Vulkan rendering, and support for original Saturn CDs via USB optical drives.
 
 ## Building software with AI agents
 
