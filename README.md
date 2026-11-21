@@ -32,5 +32,3 @@ I built my own local AI setup on Linux with `llama.cpp`. I use its Vulkan backen
 | [**DrumCraker**](https://github.com/Wamphyre/DrumCraker) | Drum sampler with DrumGizmo kit support, multichannel routing, and MIDI humanization. |
 | [**miloOS**](https://github.com/Wamphyre/miloOS-core) | Turns Debian 13 with XFCE into a **low-latency audio workstation**, with PipeWire, WirePlumber, and JACK compatibility preconfigured. |
 | [**SuperSnippet**](https://github.com/Wamphyre/SuperSnippet) | Portable C++ utility for Windows with code snippets, clipboard history, global hotkeys, and local SQLite storage. |
-
-[![The oXygen mastering plugin interface](https://raw.githubusercontent.com/Wamphyre/oXygen/main/assets/screenshot.png)](https://github.com/Wamphyre/oXygen)
