@@ -19,9 +19,30 @@ I’m a Unix sysadmin and software developer with **10 years of experience**. I 
 
 I use AI coding agents to prototype and build applications, software tools, and games. I’m good at turning a rough idea into clear direction for an agent, using examples and focused feedback to refine each iteration. I bring my own creative judgment to the result, from how the code is structured to how the interface looks and feels.
 
-### Local LLM inference
+```text
++--------------------------------------------------------+
+|  wamphyre@studio:~/ai                       [ RELEASE ]|
+|                                                        |
+|              /\                        /\              |
+|          ___/  \__      /\  /\      __/  \___          |
+|          \        \____/  \/  \____/        /          |
+|           \__/\__     .        .     __/\__/           |
+|                  \____/\/\__/\/\____/                  |
+|                                                        |
+|                 LIQUIDVAMP R4 / 1.7B                   |
+|                                                        |
+|  > AGENTS    context / tools / iterative review        |
+|  > HARNESS   task execution / output evaluation        |
+|  > MODEL     LoRA post-training / BF16 GGUF            |
+|  > RUNTIME   llama.cpp / Vulkan / Linux                |
++--------------------------------------------------------+
+```
 
-I built my own local AI setup on Linux with `llama.cpp`. I use its Vulkan backend for GPU-accelerated inference and tune performance for the hardware I run my models on.
+### Agents, harnesses, and local LLMs
+
+I work with coding agents and their harnesses to build software. I shape the context agents receive, decide which tools they can use, and evaluate their output as I iterate. I also build and tune local inference setups on Linux using `llama.cpp` and Vulkan.
+
+I published **LiquidVamp-R4-1.7B**, an experimental LFM3-based model that I adapted with supervised LoRA post-training. The release includes a merged Safetensors checkpoint and a BF16 GGUF build. I tested local inference on Ubuntu with a Radeon RX 6600 using `llama.cpp` and Vulkan. [Model on Hugging Face](https://huggingface.co/WamphyreAI/LiquidVamp-R4-1.7B) · [Technical specification](https://huggingface.co/WamphyreAI/LiquidVamp-R4-1.7B/blob/main/TECHNICAL_SPEC.md)
 
 ## Audio, systems, and desktop software
 
